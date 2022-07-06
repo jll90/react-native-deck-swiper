@@ -1,7 +1,7 @@
 {
     "name": "react-native-deck-swiper",
-    "version": "2.0.7",
-    "description": "Awesome tinder like card swiper for react-native. Highly Customizable!",
+    "version": "2.1.0",
+    "description": "Awesome tinder like card swiper for react-native. Supports lazy loading and highly customizable!",
     "main": "index.js",
     "scripts": {
         "test": "jest --coverage",
@@ -28,12 +28,12 @@
         "deck",
         "animation"
     ],
-    "author": "Bogdan Pop / WebRaptor",
+    "author": "jll90 / j2lcoding@gmail.com",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/webraptor/react-native-deck-swiper/issues"
+        "url": "https://github.com/jll90/react-native-deck-swiper/issues"
     },
-    "homepage": "https://github.com/webraptor/react-native-deck-swiper#readme",
+    "homepage": "https://github.com/jll90/react-native-deck-swiper#readme",
     "dependencies": {
         "prop-types": "15.5.10"
     },
